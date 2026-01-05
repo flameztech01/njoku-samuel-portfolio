@@ -35,7 +35,7 @@ const Hero = () => {
   const skills = [
     { name: 'MERN Stack' },
     { name: 'UI/UX Design' },
-    { name: 'Copywriting' },
+    { name: 'Graphic Design' },
   ];
 
   return (
